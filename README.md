@@ -1,7 +1,7 @@
 # cryptonote-coins
 ongoing list of both cryptonote coins and known pools
 
-|  **TICKER** | **NAME** | **STATUS** | **URL** | **BITCOIN TALK** | **MARKET** | **EXCHANGE** | **WALLET** | **RAW BLOCK** | **ALGO** | **POOL A** | **POOL B** | **SCRIPT** | **WHITEPAPER** |
+|  **TICKER** | **NAME** | **STATUS** | **URL** | **BTC TALK** | **MARKET** | **EXCHANGE** | **WALLET** | **BLOCK** | **ALGO** | **POOL A** | **POOL B** | **SCRIPT** | **WHITEPAPER** |
 |  ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 |  Null | AEON | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | Alloy | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
@@ -10,7 +10,7 @@ ongoing list of both cryptonote coins and known pools
 |  Null | Balkancoin | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | BBSCoin | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | BitcoinNova | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
-|  Null | Bitcoinote | Null | Null | Null | Null | Null | https://github.com/Bitcoinote/Bitcoinote-GUI-Wallet/releases | Null | Null | Null | Null | Null | Null |
+|  Null | Bitcoinote | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | BitTube | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | BixBiteCoin | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | BLOCC | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
@@ -25,7 +25,7 @@ ongoing list of both cryptonote coins and known pools
 |  Null | Fonero | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | Gadcoin | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | Graft | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
-|  Null | Haven | Null | Null | Null | Null | Null | https://github.com/havenprotocol/haven/releases/ | Null | Null | Null | Null | Null | Null |
+|  Null | Haven | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | Incognito | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | IntenseCoin | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | INTUcoin | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
@@ -37,7 +37,7 @@ ongoing list of both cryptonote coins and known pools
 |  Null | LeviarCoin | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | Lines | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | Loki | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
-|  Null | MarketCash | Null | Null | Null | Null | Null | https://github.com/MarketCashME/marketcash | Null | Null | Null | Null | Null | Null |
+|  Null | MarketCash | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | Masari | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | Monero | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | MoneroV | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
@@ -45,8 +45,8 @@ ongoing list of both cryptonote coins and known pools
 |  Null | Niobio Cash | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | Ombre | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | Parsicoin | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
-|  Null | Plura | Null | Null | Null | Null | Null | https://pluracoin.org/ | Null | Null | Null | Null | Null | Null |
-|  Null | Qwertycoin | Null | Null | Null | Null | Null | https://qwertycoin.org/downloads | Null | Null | Null | Null | Null | Null |
+|  Null | Plura | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
+|  Null | Qwertycoin | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | RyoCurrency | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | Saronite | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |
 |  Null | SecretCoin | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null | Null |

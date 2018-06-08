@@ -32,7 +32,9 @@ ongoing list of both cryptonote coins and known pools
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
-### H3 Pitch in on a sack
+========================================================================================================================================
+
+### Pitch in on a Sack
 BTC: 38NQuDc5NLWLo7oTygn1y1ipWhLYNWHhai
 
 LTC: MAjxfmJ1zUZd6mCxJ4YpuD6UDCV9TRExbZ

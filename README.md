@@ -1,40 +1,68 @@
 # cryptonote-coins
 ongoing list of both cryptonote coins and known pools
 
-|     Coin      |    Ticker     |     Algo      |     Supply    |     Pool      |     Script    | 
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Monero        | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| MoneroV       | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Worktips      | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Triton        | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| SPOTme        | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Fonero        | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Newton        | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Qwertycoin    | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Haven         | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Bitcoinote    | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| UltraNote     | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Bytecoin      | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Kwagsh        | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Wownero       | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-
-========================================================================================================================================
-
-### Pitch in on a Sack
+|  **TICKER** | **NAME** | **STATUS** | **URL** | **BITCOIN TALK** | **MARKET** | **EXCHANGE** | **WALLET** | **RAW BLOCK** | **ALGO** | **POOL A** | **POOL B** | **SCRIPT** | **WHITEPAPER** |
+|  ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+|   | AEON |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Alloy |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Arto |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | B2B Coin |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Balkancoin |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | BBSCoin |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | BitcoinNova |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Bitcoinote |  |  |  |  |  | https://github.com/Bitcoinote/Bitcoinote-GUI-Wallet/releases |  |  |  |  |  |  |
+|   | BitTube |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | BixBiteCoin |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | BLOCC |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Bytecoin |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | DigitalNote |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Digitalnote |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | DinastyCoin |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | DOSH |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Electronero |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Electroneum |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | ELYA |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Fonero |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Gadcoin |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Graft |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Haven |  |  |  |  |  | https://github.com/havenprotocol/haven/releases/ |  |  |  |  |  |  |
+|   | Incognito |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | IntenseCoin |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | INTUcoin |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Iridium |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Italocoin |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Karbo |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | KEPL |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Kwagsh |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | LeviarCoin |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Lines |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Loki |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | MarketCash |  |  |  |  |  | https://github.com/MarketCashME/marketcash |  |  |  |  |  |  |
+|   | Masari |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Monero |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | MoneroV |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | NERVA |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Niobio Cash |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Ombre |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Parsicoin |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Plura |  |  |  |  |  | https://pluracoin.org/ |  |  |  |  |  |  |
+|   | Qwertycoin |  |  |  |  |  | https://qwertycoin.org/downloads |  |  |  |  |  |  |
+|   | RyoCurrency |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Saronite |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | SecretCoin |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Soldo |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | SoliceCoin |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | SPOTme |  |  |  |  |  | https://spotmecoin.com/ |  |  |  |  |  |  |
+|   | Stellite |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Sumokoin |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | SuperiorCoin |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Triton |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | TurtleCoin |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | TycheCash |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | UltraNote |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | Worktips |  |  |  |  |  | http://workscoin.xyz/ |  |  |  |  |  |  |
+|   | Wownero |  |  |  |  |  |  |  |  |  |  |  |  |
+|   | ZuccBucc |  |  |  |  |  |  |  |  |  |  |  |  |
 BTC: 38NQuDc5NLWLo7oTygn1y1ipWhLYNWHhai
 
 LTC: MAjxfmJ1zUZd6mCxJ4YpuD6UDCV9TRExbZ

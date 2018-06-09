@@ -1,55 +1,55 @@
-# electroneum Coin 
+# elya Coin 
 > Cryptonote - Cryptonight - Coin Data.
 
-General Listing for electroneum Cryptonote Coin - Pertinent Links, Known Pools, Setup Scripts.
+General Listing for elya Cryptonote Coin - Pertinent Links, Known Pools, Setup Scripts.
 
 ## Coin Data
 
-|elya**URL** | **BTCTalk** | **Market** | **Wallet** |
-|elya------ | ------ | ------ | ------ |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
+|  **URL** | **BTCTalk** | **Market** | **Wallet** |
+|  ------ | ------ | ------ | ------ |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
 
 
 ## Exchanges
 
-|elya**Exchange** | **Pairs** |
-|elya------ | ------ |
-|elyanull | null |
-|elyanull | null |
-|elyanull | null |
-|elyanull | null |
-|elyanull | null |
-|elyanull | null |
+|  **Exchange** | **Pairs** |
+|  ------ | ------ |
+|  null | null |
+|  null | null |
+|  null | null |
+|  null | null |
+|  null | null |
+|  null | null |
 
 
 ## Known Pools
 
-|elya**COIN** | **Pool** | **Port** | **Difficulty** | **Type** | **Location** |
-|elya------ | ------ | ------ | ------ | ------ | ------ |
-|elyaelectroneum | Null | Null | Null | Null | Null |
-|elyaelectroneum | Null | Null | Null | Null | Null |
-|elyaelectroneum | Null | Null | Null | Null | Null |
-|elyaelectroneum | Null | Null | Null | Null | Null |
-|elyaelectroneum | Null | Null | Null | Null | Null |
-|elyaelectroneum | Null | Null | Null | Null | Null |
-|elyaelectroneum | Null | Null | Null | Null | Null |
+|  **COIN** | **Pool** | **Port** | **Difficulty** | **Type** | **Location** |
+|  ------ | ------ | ------ | ------ | ------ | ------ |
+|  elya | Null | Null | Null | Null | Null |
+|  elya | Null | Null | Null | Null | Null |
+|  elya | Null | Null | Null | Null | Null |
+|  elya | Null | Null | Null | Null | Null |
+|  elya | Null | Null | Null | Null | Null |
+|  elya | Null | Null | Null | Null | Null |
+|  elya | Null | Null | Null | Null | Null |
 
 
 ## Mining Scripts
 
-|elya**Miner** | **Type** | **GitHub** | **AutoScript** |
-|elya------ | ------ | ------ | ------ |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
+|  **Miner** | **Type** | **GitHub** | **AutoScript** |
+|  ------ | ------ | ------ | ------ |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
 
 
 ## Meta
@@ -68,7 +68,7 @@ XMR: 42si9ingS34BnhGVBamjZUSDZr8XmEENeEypeRjnZVGgXCtr5rano1UjXqrT3anyZ22j7DEE74G
 
 BCH: qpf93ymdf267ujyuu7rqtm2t6lxewl7jns8yv8pjtm
 
-electroneum: Address: WmtK9TQ6yd2ZWZDAkRsebc2ppzUq2Wuo9XRRjHMH2fvqM3ARVqk3styJ6AavJFcpJFPFtxRGAqGFoJMZGJ6YYzQ61TYGfpykX
+elya: Address: WmtK9TQ6yd2ZWZDAkRsebc2ppzUq2Wuo9XRRjHMH2fvqM3ARVqk3styJ6AavJFcpJFPFtxRGAqGFoJMZGJ6YYzQ61TYGfpykX
 
 Payment ID: 26de7b7abd3e434586941e246e6a0de202ca6ae4677645f990b7d61770f0fe43
 

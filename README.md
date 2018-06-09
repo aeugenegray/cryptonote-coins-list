@@ -3,12 +3,12 @@ ongoing list of both cryptonote coins and known pools
 
 |  **TICKER** | **NAME** | **STATUS** | **EXCHANGE** | **WALLET** | **ALGO** | **POOL A** | **POOL B** | **SCRIPT** |
 |  ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-|  [AEON](https://coinmarketcap.com/currencies/aeon/) | [AEON](https://www.aeon.cash/) | Null | HitBTC.com | [Link](https://www.aeon.cash/#downloads) | Cryptonight-Lite V7 | Null | Null | [GitHub](https://github.com/aeugenegray/xmr-stak-aeon.git) |
-|  Null | Alloy | Null | Null | Null | Null | Null | Null | Null |
-|  Null | Arto | Null | Null | Null | Null | Null | Null | Null |
-|  Null | B2B Coin | Null | Null | Null | Null | Null | Null | Null |
-|  Null | Balkancoin | Null | Null | Null | Null | Null | Null | Null |
-|  Null | BBSCoin | Null | Null | Null | Null | Null | Null | Null |
+|  [AEON](https://coinmarketcap.com/currencies/aeon/) | [AEON](https://www.aeon.cash/) | Null | Link | [Link](https://www.aeon.cash/#downloads) | Cryptonight-Lite V7 | Null | Null | [GitHub](https://github.com/aeugenegray/xmr-stak-aeon.git) |
+|  Null | [Alloy](https://alloyproject.org/) | Null | Null | [Link](https://alloyproject.org/#wallet) | Null | Null | Null | Null |
+|  Null | [Arto](https://www.arto.cash/) | Null | Null | [Link](https://www.arto.cash/#download) | Null | Null | Null | Null |
+|  Null | [B2B Coin](https://b2bcoin.xyz/) | Null | Null | [Link](https://b2bcoin.xyz/#download) | Null | Null | Null | Null |
+|  Null | [Balkancoin](https://www.balkancoin.org/) | Null | Null | [Link](https://www.balkancoin.org/downloads/) | Null | Null | Null | Null |
+|  Null | [BBSCoin](https://bbscoin.xyz/) | Null | Null | [Link](https://bbscoin.xyz/download/#downloads) | Null | Null | Null | Null |
 |  Null | BitcoinNova | Null | Null | Null | Null | Null | Null | Null |
 |  Null | Bitcoinote | Null | Null | Null | Null | Null | Null | Null |
 |  Null | BitTube | Null | Null | Null | Null | Null | Null | Null |

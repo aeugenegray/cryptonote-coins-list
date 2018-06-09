@@ -5,51 +5,51 @@ General Listing for italocoin Cryptonote Coin - Pertinent Links, Known Pools, Se
 
 ## Coin Data
 
-|elya**URL** | **BTCTalk** | **Market** | **Wallet** |
-|elya------ | ------ | ------ | ------ |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
+|  **URL** | **BTCTalk** | **Market** | **Wallet** |
+|  ------ | ------ | ------ | ------ |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
 
 
 ## Exchanges
 
-|elya**Exchange** | **Pairs** |
-|elya------ | ------ |
-|elyanull | null |
-|elyanull | null |
-|elyanull | null |
-|elyanull | null |
-|elyanull | null |
-|elyanull | null |
+|  **Exchange** | **Pairs** |
+|  ------ | ------ |
+|  null | null |
+|  null | null |
+|  null | null |
+|  null | null |
+|  null | null |
+|  null | null |
 
 
 ## Known Pools
 
-|elya**COIN** | **Pool** | **Port** | **Difficulty** | **Type** | **Location** |
-|elya------ | ------ | ------ | ------ | ------ | ------ |
-|elyaitalocoin | Null | Null | Null | Null | Null |
-|elyaitalocoin | Null | Null | Null | Null | Null |
-|elyaitalocoin | Null | Null | Null | Null | Null |
-|elyaitalocoin | Null | Null | Null | Null | Null |
-|elyaitalocoin | Null | Null | Null | Null | Null |
-|elyaitalocoin | Null | Null | Null | Null | Null |
-|elyaitalocoin | Null | Null | Null | Null | Null |
+|  **COIN** | **Pool** | **Port** | **Difficulty** | **Type** | **Location** |
+|  ------ | ------ | ------ | ------ | ------ | ------ |
+|  italocoin | Null | Null | Null | Null | Null |
+|  italocoin | Null | Null | Null | Null | Null |
+|  italocoin | Null | Null | Null | Null | Null |
+|  italocoin | Null | Null | Null | Null | Null |
+|  italocoin | Null | Null | Null | Null | Null |
+|  italocoin | Null | Null | Null | Null | Null |
+|  italocoin | Null | Null | Null | Null | Null |
 
 
 ## Mining Scripts
 
-|elya**Miner** | **Type** | **GitHub** | **AutoScript** |
-|elya------ | ------ | ------ | ------ |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
-|elyanull | null | null | null |
+|  **Miner** | **Type** | **GitHub** | **AutoScript** |
+|  ------ | ------ | ------ | ------ |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
 
 
 ## Meta

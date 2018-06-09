@@ -1,18 +1,13 @@
-# AEON Coin 
+# AEON 
 > Cryptonote - Cryptonight_Lite_V7 - Coin Data.
 
-General Listing for AEON Cryptonote Coin - Pertinent Links, Known Pools, Setup Scripts.
+General Listing Information - AEON - Cryptonote
 
 ## Coin Data
 
-|  **URL** | **BTCTalk** | **Market** | **Wallet** |
-|  ------ | ------ | ------ | ------ |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
+|  **Website** | **Announce** | **Market** | **Wallet** | **Explorer** |
+|  ------ | ------ | ------ | ------ | ------ |
+|  [Link](http://www.aeon.cash/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=641696.0) | [CoinMarketCap](https://coinmarketcap.com/currencies/aeon/) | [Link](https://www.aeon.cash/#downloads) | [Link](http://chainradar.com/aeon/blocks) |
 
 
 ## Exchanges

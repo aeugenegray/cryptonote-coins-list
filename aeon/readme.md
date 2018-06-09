@@ -54,11 +54,6 @@ General Listing for AEON Cryptonote Coin - Pertinent Links, Known Pools, Setup S
 
 ## Meta
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
 
 
 

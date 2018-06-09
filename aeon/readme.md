@@ -1,50 +1,58 @@
 # AEON Coin 
 > Cryptonote - Cryptonight_Lite_V7 - Coin Data.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 General Listing for AEON Cryptonote Coin - Pertinent Links, Known Pools, Setup Scripts.
-
-![](header.png)
 
 ## Coin Data
 
-OS X & Linux:
+|  **URL** | **BTCTalk** | **Market** | **Wallet** |
+|  ------ | ------ | ------ | ------ |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
 
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
 
 ## Exchanges
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+|  **Exchange** | **Pairs** |
+|  ------ | ------ |
+|  null | null |
+|  null | null |
+|  null | null |
+|  null | null |
+|  null | null |
+|  null | null |
 
-```sh
-make install
-npm test
-```
 
 ## Known Pools
 
+|  **COIN** | **Pool** | **Port** | **Difficulty** | **Type** | **Location** |
+|  ------ | ------ | ------ | ------ | ------ | ------ |
+|  AEON | Null | Null | Null | Null | Null |
+|  AEON | Null | Null | Null | Null | Null |
+|  AEON | Null | Null | Null | Null | Null |
+|  AEON | Null | Null | Null | Null | Null |
+|  AEON | Null | Null | Null | Null | Null |
+|  AEON | Null | Null | Null | Null | Null |
+|  AEON | Null | Null | Null | Null | Null |
+
+
+## Mining Scripts
+
+|  **Miner** | **Type** | **GitHub** | **AutoScript** |
+|  ------ | ------ | ------ | ------ |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
+|  null | null | null | null |
 
 
 ## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## Mining Scripts
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)

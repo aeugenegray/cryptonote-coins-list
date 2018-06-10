@@ -3,7 +3,7 @@ ongoing list of both cryptonote coins and known pools
 
 |  **Coin** | **Website** | **Announce** | **Market** | **Wallet** | **Explorer** | **Algo** | **Script** | **Git** | **Donate** |
 |  ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-|  aeon | aeon |  | Link | [Link](https://www.aeon.cash/#downloads) | CN-Lite-V7 |  | [GitHub](https://github.com/aeugenegray/xmr-stak-aeon.git) |  |  WmtK9TQ6yd2ZWZDAkRsebc2ppzUq2Wuo9XRRjHMH2fvqM3ARVqk3styJ6AavJFcpJFPFtxRGAqGFoJMZGJ6YYzQ61TYGfpykX.....26de7b7abd3e434586941e246e6a0de202ca6ae4677645f990b7d61770f0fe43 |
+|  aeon | aeon |  | Link | [Link](https://www.aeon.cash/#downloads) | Link | cn_lite_v7 | [GitHub](https://github.com/aeugenegray/xmr-stak-aeon.git) |  |  WmtK9TQ6yd2ZWZDAkRsebc2ppzUq2Wuo9XRRjHMH2fvqM3ARVqk3styJ6AavJFcpJFPFtxRGAqGFoJMZGJ6YYzQ61TYGfpykX.....26de7b7abd3e434586941e246e6a0de202ca6ae4677645f990b7d61770f0fe43 |
 |  link | alloy |  | Link | [Link](https://alloyproject.org/#wallet) | Link |  | Link |  | Link |
 |  link | arto |  | Link | [Link](https://www.arto.cash/#download) | Link |  | Link |  | Link |
 |  link | b2b coin |  | Link | [Link](https://b2bcoin.xyz/#download) | Link |  | Link |  | Link |
@@ -56,11 +56,11 @@ ongoing list of both cryptonote coins and known pools
 |  link | secretcoin |  | Link | Link | Link |  | Link |  | Link |
 |  link | soldo |  | Link | Link | Link |  | Link |  | Link |
 |  link | solicecoin |  | Link | Link | Link |  | Link |  | Link |
-|  [XME](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/spotme) | [SPOTme](https://www2.spotmecoin.com/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=2701367.0) | NA | [Link](https://www2.spotmecoin.com/) | CN_Lite_V7 |  | [GitHub](https://github.com/aeugenegray/xmr-stak-spotme) |  | Link |
+|  [XME](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/spotme) | [SPOTme](https://www2.spotmecoin.com/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=2701367.0) | NA | [Link](https://www2.spotmecoin.com/) | link | cn_lite_v7 | [GitHub](https://github.com/aeugenegray/xmr-stak-spotme) |  | Link |
 |  link | stellite |  | Link | Link | Link |  | Link |  | Link |
 |  link | sumokoin |  | Link | Link | Link |  | Link |  | Link |
-|  link | superiorcoin |  | Link | Link | saronite |  | Link |  | Link |
-|  link | triton |  | Link | Link | Link |  | Link |  | Tw1Wf4BYraTYsWMA7SRiQbTLHpzoVueedCsDBjXAF6tZC9Fjjw7s1pnhTfMjeAMcZJ7JMKipyfSTYdRiAAagUNae28hB14UFA |
+|  link | superiorcoin |  | Link | Link | link |  | Link |  | Link |
+|  [TRIT](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/triton) | [Triton](https://tritonproject.org/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=2944793.0) | NA | [Link](https://tritonproject.org/#wallets) | [Link](http://explorer.tritonproject.org/) | cn_lite_v7 | [GitHub](https://github.com/aeugenegray/xmr-stak-triton) | [GitHub](https://github.com/Triton-io) | Tw1Wf4BYraTYsWMA7SRiQbTLHpzoVueedCsDBjXAF6tZC9Fjjw7s1pnhTfMjeAMcZJ7JMKipyfSTYdRiAAagUNae28hB14UFA |
 |  link | turtlecoin |  | Link | Link | Link |  | Link |  | Link |
 |  link | tychecash |  | Link | Link | Link |  | Link |  | Link |
 |  link | ultranote |  | Link | Link | Link |  | Link |  | Link |

@@ -7,15 +7,13 @@ General Listing for Worktips Cryptonote Coin -
 
 |  **Coin** | **Website** | **Announce** | **Market** | **Wallet** | **Explorer** |
 |  ------ | ------ | ------ | ------ | ------ | ------ |
-|  [TRIT](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/triton) | [Triton](https://tritonproject.org/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=2944793.0) | NA | [Link](https://tritonproject.org/#wallets) | [Link](http://explorer.tritonproject.org/) |
-
+|  [WTIP](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/worktips) | [Worktips](http://worktips.info/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=3086019.0) | [CoinGecko](https://www.coingecko.com/en/price_charts/worktips/usd) | [Link](http://worktips.info/) | [Link](http://blockexplorer.worktips.info/) |
 
 ## Exchanges
 
 |  **Exchange** | **Pairs** |
 |  ------ | ------ |
 |  [Altex Exhanger](https://altex.exchange/markets&pair=BTC_TRIT) | null |
-|  [Trade Ogre](https://tradeogre.com/exchange/BTC-TRIT) | null |
 
 
 
@@ -23,20 +21,18 @@ General Listing for Worktips Cryptonote Coin -
 
 |  **Pool** | **Port** | **Difficulty** | **Type** | **Location** |
 |  ------ | ------ | ------ | ------ | ------ |
-|  triton.clevery.xyz | 9201 | 5k | NA | NA |
-|  triton.clevery.xyz | 9202 | 15k | NA | NA |
-|  triton.clevery.xyz | 9203 | 25k | NA | NA |
-|  triton.clevery.xyz | 9204 | 50k | NA | NA |
-|  triton.clevery.xyz | 8002 | 25k | ssl | NA |
+|  wktip.mineallcrypto.com | 7476 | 2k | NA | NA |
+|  wktip.mineallcrypto.com | 7477 | 10k | NA | NA |
+|  wktip.mineallcrypto.com | 7478 | 400k | NH | NA |
 
 
 ## Mining Scripts
 
 |  **Miner** | **Type** | **GitHub** | **AutoScript** |
 |  ------ | ------ | ------ | ------ |
-|  xmr-stak | CPU | null | [Github](https://github.com/aeugenegray/xmr-stak-triton) |
-|  xmrig | CPU/GPU | null | [Github](https://github.com/aeugenegray/xmrig-autoscipt-triton) |
-|  cpuminer-multi | CPU/GPU | null | [Github](https://github.com/aeugenegray/cpuminer-multi-autoscript-triton) 
+|  xmr-stak | CPU | null | [Github](https://github.com/aeugenegray/xmr-stak-worktipsn) |
+|  xmrig | CPU/GPU | null | [Github](https://github.com/aeugenegray/xmrig-autoscipt-worktips) |
+|  cpuminer-multi | CPU/GPU | null | [Github](https://github.com/aeugenegray/cpuminer-multi-autoscript-worktips) 
 
 
 ## Meta

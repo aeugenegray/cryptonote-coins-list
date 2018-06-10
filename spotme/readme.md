@@ -24,15 +24,11 @@ General Listing for SPOTme Cryptonote Coin -
 
 ## Known Pools
 
-|  **COIN** | **Pool** | **Port** | **Difficulty** | **Type** | **Location** |
-|  ------ | ------ | ------ | ------ | ------ | ------ |
-|  spotme | Null | Null | Null | Null | Null |
-|  spotme | Null | Null | Null | Null | Null |
-|  spotme | Null | Null | Null | Null | Null |
-|  spotme | Null | Null | Null | Null | Null |
-|  spotme | Null | Null | Null | Null | Null |
-|  spotme | Null | Null | Null | Null | Null |
-|  spotme | Null | Null | Null | Null | Null |
+|  **Pool** | **Port** | **Difficulty** | **Type** | **Location** |
+|  ------ | ------ | ------ | ------ | ------ |
+|  pool1.crypto-me.com | 13333 | 10k | NA | NA |
+|  pool1.crypto-me.com | 13336 | 20k | NA | NA |
+|  pool1.crypto-me.com | 13339 | 50k | NA | NA |
 
 
 ## Mining Scripts

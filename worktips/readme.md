@@ -1,55 +1,42 @@
-# worktips Coin 
+# WorkTips (WTIP) 
 > Cryptonote - Cryptonight - Coin Data.
 
-General Listing for worktips Cryptonote Coin - Pertinent Links, Known Pools, Setup Scripts.
+General Listing for Worktips Cryptonote Coin -
 
 ## Coin Data
 
-|  **URL** | **BTCTalk** | **Market** | **Wallet** |
-|  ------ | ------ | ------ | ------ |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
+|  **Coin** | **Website** | **Announce** | **Market** | **Wallet** | **Explorer** |
+|  ------ | ------ | ------ | ------ | ------ | ------ |
+|  [TRIT](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/triton) | [Triton](https://tritonproject.org/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=2944793.0) | NA | [Link](https://tritonproject.org/#wallets) | [Link](http://explorer.tritonproject.org/) |
 
 
 ## Exchanges
 
 |  **Exchange** | **Pairs** |
 |  ------ | ------ |
-|  null | null |
-|  null | null |
-|  null | null |
-|  null | null |
-|  null | null |
-|  null | null |
+|  [Altex Exhanger](https://altex.exchange/markets&pair=BTC_TRIT) | null |
+|  [Trade Ogre](https://tradeogre.com/exchange/BTC-TRIT) | null |
 
 
-## Known Pools
 
-|  **COIN** | **Pool** | **Port** | **Difficulty** | **Type** | **Location** |
-|  ------ | ------ | ------ | ------ | ------ | ------ |
-|  worktips | Null | Null | Null | Null | Null |
-|  worktips | Null | Null | Null | Null | Null |
-|  worktips | Null | Null | Null | Null | Null |
-|  worktips | Null | Null | Null | Null | Null |
-|  worktips | Null | Null | Null | Null | Null |
-|  worktips | Null | Null | Null | Null | Null |
-|  worktips | Null | Null | Null | Null | Null |
+## Pools
+
+|  **Pool** | **Port** | **Difficulty** | **Type** | **Location** |
+|  ------ | ------ | ------ | ------ | ------ |
+|  triton.clevery.xyz | 9201 | 5k | NA | NA |
+|  triton.clevery.xyz | 9202 | 15k | NA | NA |
+|  triton.clevery.xyz | 9203 | 25k | NA | NA |
+|  triton.clevery.xyz | 9204 | 50k | NA | NA |
+|  triton.clevery.xyz | 8002 | 25k | ssl | NA |
 
 
 ## Mining Scripts
 
 |  **Miner** | **Type** | **GitHub** | **AutoScript** |
 |  ------ | ------ | ------ | ------ |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
+|  xmr-stak | CPU | null | [Github](https://github.com/aeugenegray/xmr-stak-triton) |
+|  xmrig | CPU/GPU | null | [Github](https://github.com/aeugenegray/xmrig-autoscipt-triton) |
+|  cpuminer-multi | CPU/GPU | null | [Github](https://github.com/aeugenegray/cpuminer-multi-autoscript-triton) 
 
 
 ## Meta
@@ -68,9 +55,6 @@ XMR: 42si9ingS34BnhGVBamjZUSDZr8XmEENeEypeRjnZVGgXCtr5rano1UjXqrT3anyZ22j7DEE74G
 
 BCH: qpf93ymdf267ujyuu7rqtm2t6lxewl7jns8yv8pjtm
 
-worktips: Address: WmtK9TQ6yd2ZWZDAkRsebc2ppzUq2Wuo9XRRjHMH2fvqM3ARVqk3styJ6AavJFcpJFPFtxRGAqGFoJMZGJ6YYzQ61TYGfpykX
-
-Payment ID: 26de7b7abd3e434586941e246e6a0de202ca6ae4677645f990b7d61770f0fe43
 
 		
 		

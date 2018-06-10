@@ -4,30 +4,30 @@ ongoing list of both cryptonote coins and known pools
 |  **Coin** | **Website** | **Announce** | **Market** | **Wallet** | **Explorer** | **Algo** | **Script** | **Git** | **Donate** |
 |  ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 |  AEON | Aeon |  | Link | [Link](https://www.aeon.cash/#downloads) | Link | cn_lite_v7 | [GitHub](https://github.com/aeugenegray/xmr-stak-aeon.git) |  |  WmtK9TQ6yd2ZWZDAkRsebc2ppzUq2Wuo9XRRjHMH2fvqM3ARVqk3styJ6AavJFcpJFPFtxRGAqGFoJMZGJ6YYzQ61TYGfpykX.....26de7b7abd3e434586941e246e6a0de202ca6ae4677645f990b7d61770f0fe43 |
-|  link | alloy |  | Link | [Link](https://alloyproject.org/#wallet) | Link |  | Link |  | Link |
-|  link | arto |  | Link | [Link](https://www.arto.cash/#download) | Link |  | Link |  | Link |
-|  link | b2b coin |  | Link | [Link](https://b2bcoin.xyz/#download) | Link |  | Link |  | Link |
-|  link | balkancoin |  | Link | [Link](https://www.balkancoin.org/downloads/) | Link |  | Link |  | Link |
-|  link | bbscoin |  | Link | [Link](https://bbscoin.xyz/download/#downloads) | Link |  | Link |  | Link |
-|  link | bitcoinnova |  | Link | Link | Link |  | Link |  | Link |
-|  link | bitcoinote |  | Link | Link | Link |  | Link |  | Link |
-|  link | bittube |  | Link | Link | Link |  | Link |  | Link |
-|  link | bixbitecoin |  | Link | Link | Link |  | Link |  | Link |
-|  link | blocc |  | Link | Link | Link |  | Link |  | Link |
-|  link | bytecoin |  | Link | Link | Link |  | Link |  | 27td1udbLduGqbDVf636m7EzVYowDszhAKnQ6KyJsLZMdjv654dcc2Jdi7ok6B5SQT6UXUtQgusruCoXbqUZm8VJAgc5VWL |
-|  link | croat |  | Link | Link | Link |  | Link |  | Link |
-|  link | digitalnote |  | Link | Link | Link |  | Link |  | Link |
-|  link | dinastycoin |  | Link | Link | Link |  | Link |  | Link |
-|  link | dosh |  | Link | Link | Link |  | Link |  | Link |
-|  link | edollar |  | Link | Link | Link |  | Link |  | Link |
-|  link | electronero |  | Link | Link | Link |  | Link |  | Link |
-|  link | electroneum |  | Link | Link | Link |  | Link |  | Link |
-|  link | elya |  | Link | Link | Link |  | Link |  | Link |
-|  link | fonero |  | Link | Link | Link |  | Link |  | Link |
-|  link | gadcoin |  | Link | Link | Link |  | Link |  | Link |
-|  link | graft |  | Link | Link | Link |  | Link |  | Link |
-|  link | haven |  | Link | Link | Link |  | Link |  | Link |
-|  link | incognito |  | Link | Link | Link |  | Link |  | Link |
+|  [XAO](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/alloy) | [Alloy](https://alloyproject.org/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=2676887.0) | Link | [Link](https://alloyproject.org/#wallet) | Link |  | Link |  | Link |
+|  [RTO](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/arto) | [Arto](https://www.arto.cash/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=2932583.0) | Link | [Link](https://www.arto.cash/#download) | Link |  | Link |  | Link |
+|  [B2B](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/b2bcoin) | [B2BCoin](https://b2bcoin.xyz/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=2098163.0) | Link | [Link](https://b2bcoin.xyz/#download) | Link |  | Link |  | Link |
+|  [BKC](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/balkancoin) | [Balkancoin](https://www.balkancoin.org/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=2821734.0) | Link | [Link](https://www.balkancoin.org/downloads/) | Link |  | Link |  | Link |
+|  [BBS](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/bbscoin) | [BBSCoin](https://bbscoin.xyz/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=2861067.0) | Link | [Link](https://bbscoin.xyz/download/#downloads) | Link |  | Link |  | Link |
+|  NA | [Bitcoin Nova](http://bitcoinn.biz/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=2309303.0) | Link | Link | Link |  | Link |  | Link |
+|  [BTCN](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/bitcoinote) | [Bitcoinote](http://www.bitcoinote.org/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=2660296.0) | Link | Link | Link |  | Link |  | Link |
+|  link | bittube | null | Link | Link | Link |  | Link |  | Link |
+|  link | bixbitecoin | null | Link | Link | Link |  | Link |  | Link |
+|  link | blocc | null | Link | Link | Link |  | Link |  | Link |
+|  link | bytecoin | null | Link | Link | Link |  | Link |  | 27td1udbLduGqbDVf636m7EzVYowDszhAKnQ6KyJsLZMdjv654dcc2Jdi7ok6B5SQT6UXUtQgusruCoXbqUZm8VJAgc5VWL |
+|  link | croat | null | Link | Link | Link |  | Link |  | Link |
+|  link | digitalnote | null | Link | Link | Link |  | Link |  | Link |
+|  link | dinastycoin | null | Link | Link | Link |  | Link |  | Link |
+|  link | dosh | null | Link | Link | Link |  | Link |  | Link |
+|  link | edollar | null | Link | Link | Link |  | Link |  | Link |
+|  link | electronero | null | Link | Link | Link |  | Link |  | Link |
+|  link | electroneum | null | Link | Link | Link |  | Link |  | Link |
+|  link | elya | null | Link | Link | Link |  | Link |  | Link |
+|  link | fonero | null | Link | Link | Link |  | Link |  | Link |
+|  link | gadcoin | null | Link | Link | Link |  | Link |  | Link |
+|  link | graft | null | Link | Link | Link |  | Link |  | Link |
+|  link | haven | null | Link | Link | Link |  | Link |  | Link |
+|  link | incognito | null | Link | Link | Link |  | Link |  | Link |
 |  link | intensecoin |  | Link | Link | Link |  | Link |  | Link |
 |  link | intucoin |  | Link | Link | Link |  | Link |  | Link |
 |  link | ipbc |  | Link | Link | Link |  | Link |  | Link |

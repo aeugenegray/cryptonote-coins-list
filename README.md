@@ -3,7 +3,7 @@ ongoing list of both cryptonote coins and known pools
 
 |  **Coin** | **Website** | **Announce** | **Market** | **Wallet** | **Explorer** | **Algo** | **Script** | **Git** | **Donate** |
 |  ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-|  aeon | aeon |  | Link | [Link](https://www.aeon.cash/#downloads) | Link | cn_lite_v7 | [GitHub](https://github.com/aeugenegray/xmr-stak-aeon.git) |  |  WmtK9TQ6yd2ZWZDAkRsebc2ppzUq2Wuo9XRRjHMH2fvqM3ARVqk3styJ6AavJFcpJFPFtxRGAqGFoJMZGJ6YYzQ61TYGfpykX.....26de7b7abd3e434586941e246e6a0de202ca6ae4677645f990b7d61770f0fe43 |
+|  AEON | Aeon |  | Link | [Link](https://www.aeon.cash/#downloads) | Link | cn_lite_v7 | [GitHub](https://github.com/aeugenegray/xmr-stak-aeon.git) |  |  WmtK9TQ6yd2ZWZDAkRsebc2ppzUq2Wuo9XRRjHMH2fvqM3ARVqk3styJ6AavJFcpJFPFtxRGAqGFoJMZGJ6YYzQ61TYGfpykX.....26de7b7abd3e434586941e246e6a0de202ca6ae4677645f990b7d61770f0fe43 |
 |  link | alloy |  | Link | [Link](https://alloyproject.org/#wallet) | Link |  | Link |  | Link |
 |  link | arto |  | Link | [Link](https://www.arto.cash/#download) | Link |  | Link |  | Link |
 |  link | b2b coin |  | Link | [Link](https://b2bcoin.xyz/#download) | Link |  | Link |  | Link |
@@ -64,7 +64,7 @@ ongoing list of both cryptonote coins and known pools
 |  link | turtlecoin |  | Link | Link | Link |  | Link |  | Link |
 |  link | tychecash |  | Link | Link | Link |  | Link |  | Link |
 |  link | ultranote |  | Link | Link | Link |  | Link |  | Link |
-|  link | worktips |  | Link | Link | Link |  | Link |  | Link |
+|  [WTIP](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/worktips) | [Worktips](http://worktips.info/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=3086019.0) | [CoinGecko](https://www.coingecko.com/en/price_charts/worktips/usd) | [Link](http://worktips.info/) | [Link](http://blockexplorer.worktips.info/) | cn_lite-v1 | [Github](https://github.com/aeugenegray/xmr-stak-worktips) | [GitHub](https://github.com/worktips) | Link |
 |  link | wownero |  | Link | Link | Link |  | Link |  | Link |
 |  link | zuccbucc |  | Link | Link | Link |  | Link |  | Link |
 

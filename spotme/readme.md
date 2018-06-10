@@ -22,13 +22,16 @@ General Listing for SPOTme Cryptonote Coin -
 |  null | null |
 
 
-## Known Pools
+## Pools
 
 |  **Pool** | **Port** | **Difficulty** | **Type** | **Location** |
 |  ------ | ------ | ------ | ------ | ------ |
 |  pool1.crypto-me.com | 13333 | 10k | NA | NA |
 |  pool1.crypto-me.com | 13336 | 20k | NA | NA |
 |  pool1.crypto-me.com | 13339 | 50k | NA | NA |
+|  spot.mineallcrypto.com | 7586 | 2k | NA | NA |
+|  spot.mineallcrypto.com | 7586 | 10k | NA | NA |
+|  spot.mineallcrypto.com | 7586 | 600k NH | NA | NA |
 
 
 ## Mining Scripts

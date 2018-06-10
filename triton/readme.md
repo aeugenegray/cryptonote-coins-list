@@ -1,7 +1,7 @@
 # Triton (TRIT) 
 > Cryptonote - Cryptonight - Coin Data.
 
-General Listing for SPOTme Cryptonote Coin -
+General Listing for Triton Cryptonote Coin -
 
 ## Coin Data
 

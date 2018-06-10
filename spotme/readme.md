@@ -7,7 +7,7 @@ General Listing for SPOTme Cryptonote Coin -
 
 |  **Coin** | **Website** | **Announce** | **Market** | **Wallet** | **Explorer** |
 |  ------ | ------ | ------ | ------ | ------ | ------ |
-|  SPOTme | [Link](https://www2.spotmecoin.com/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=2701367.0) | NA | [Link](https://www2.spotmecoin.com/) | [Link](http://explorer.spotmecoin.com/) |
+|  [SPOTme](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/spotme) | [Link](https://www2.spotmecoin.com/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=2701367.0) | NA | [Link](https://www2.spotmecoin.com/) | [Link](http://explorer.spotmecoin.com/) |
 
 
 ## Exchanges

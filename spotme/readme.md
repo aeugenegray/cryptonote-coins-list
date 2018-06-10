@@ -1,18 +1,13 @@
-# spotme Coin 
+# SPOTme Coin 
 > Cryptonote - Cryptonight - Coin Data.
 
-General Listing for spotme Cryptonote Coin - Pertinent Links, Known Pools, Setup Scripts.
+General Listing for SPOTme Cryptonote Coin -
 
 ## Coin Data
 
-|  **URL** | **BTCTalk** | **Market** | **Wallet** |
-|  ------ | ------ | ------ | ------ |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
+|  **Coin** | **Website** | **Announce** | **Market** | **Wallet** | **Explorer** |
+|  ------ | ------ | ------ | ------ | ------ | ------ |
+|  SPOTme | [Link](https://www2.spotmecoin.com/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=2701367.0) | NA | [Link](https://www2.spotmecoin.com/) | [Link](http://explorer.spotmecoin.com/) |
 
 
 ## Exchanges

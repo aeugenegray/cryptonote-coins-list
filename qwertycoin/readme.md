@@ -13,7 +13,7 @@ General Listing for Qwertycoin Cryptonote Coin -
 
 |  **Exchange** | **Pairs** |
 |  ------ | ------ |
-|  [Altex Exhanger](https://altex.exchange/markets&pair=BTC_TRIT) | null |
+|  [Altex Exhanger](https://altex.exchange/markets&pair=BTC_QWC) | null |
 
 
 
@@ -21,9 +21,9 @@ General Listing for Qwertycoin Cryptonote Coin -
 
 |  **Pool** | **Port** | **Difficulty** | **Type** | **Location** |
 |  ------ | ------ | ------ | ------ | ------ |
-|  wktip.mineallcrypto.com | 7476 | 2k | NA | NA |
-|  wktip.mineallcrypto.com | 7477 | 10k | NA | NA |
-|  wktip.mineallcrypto.com | 7478 | 400k | NH | NA |
+|  qwerty.mineallcrypto.com | 6076 | 2k | NA | NA |
+|  qwerty.mineallcrypto.com | 6077 | 10k | NA | NA |
+|  qwerty.mineallcrypto.com | 6078 | 400k | NH | NA |
 
 
 ## Mining Scripts

@@ -14,12 +14,8 @@ General Listing for SPOTme Cryptonote Coin -
 
 |  **Exchange** | **Pairs** |
 |  ------ | ------ |
-|  null | null |
-|  null | null |
-|  null | null |
-|  null | null |
-|  null | null |
-|  null | null |
+|  no | data |
+
 
 
 ## Pools

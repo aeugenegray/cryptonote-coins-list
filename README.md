@@ -1,4 +1,4 @@
-|  **Coin** | **Website** | **Announ** | **Market** | **Wallet** | **Explorer** | **Algo** | **Miner** | **AutoScripts** | **Git** |
+|  **Coin** | **Website** | **ANN** | **Market** | **Wallet** | **Explorer** | **Algo** | **Miner** | **AutoScripts** | **Git** |
 |  ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 |  [AEON](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/aeon) | [Aeon](http://www.aeon.cash/) | [BTCTalk](https://bitcointalk.org/index.php?topic=641696.0) | [CMC](https://coinmarketcap.com/currencies/aeon/) | [Link](https://www.aeon.cash/#downloads) | [Link](http://chainradar.com/aeon/blocks) | cn_lite_v7 |  | [GitHub](https://github.com/aeugenegray/xmr-stak-aeon.git) |  |
 |  [XAO](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/alloy) | [Alloy](https://alloyproject.org/) | [BTCTalk](https://bitcointalk.org/index.php?topic=2676887.0) | Link | [Link](https://alloyproject.org/#wallet) | Link |  |  | Link |  |

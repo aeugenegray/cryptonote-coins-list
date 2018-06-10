@@ -68,7 +68,7 @@ ongoing list of both cryptonote coins and known pools
 |  [BTCN](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/bitcoinote) | wownero |  | Link | Link | Link |  | Link |  | Link |
 |  [BTCN](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/bitcoinote) | zuccbucc |  | Link | Link | Link |  | Link |  | Link |
 
-### Let's Go Halves on a Sack
+### Stay Thirsy My Frieds
 
 BTC: 38NQuDc5NLWLo7oTygn1y1ipWhLYNWHhai
 

@@ -38,12 +38,7 @@ General Listing for SPOTme Cryptonote Coin -
 
 |  **Miner** | **Type** | **GitHub** | **AutoScript** |
 |  ------ | ------ | ------ | ------ |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
+|  xmr-stak | CPU | [Link](https://github.com/spotme-main) | [Github](https://github.com/aeugenegray/xmr-stak-spotme) |
 
 
 ## Meta

@@ -1,68 +1,73 @@
 # cryptonote-coins
 ongoing list of both cryptonote coins and known pools
 
-|  **TICKER** | **NAME** | **STATUS** | **EXCHANGE** | **WALLET** | **ALGO** | **POOL** | **SCRIPT** | **GIT** | **DONATE** |
-|  ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-|  [AEON](https://coinmarketcap.com/currencies/aeon/) | [AEON](https://www.aeon.cash/) | O | Link | [Link](https://www.aeon.cash/#downloads) | CN-Lite-V7 | Link | [GitHub](https://github.com/aeugenegray/xmr-stak-aeon.git) |  | Link |
-|  Link | [Alloy](https://alloyproject.org/) | O | Link | [Link](https://alloyproject.org/#wallet) | Link | Link | Link |  | Link |
-|  Link | [Arto](https://www.arto.cash/) | O | Link | [Link](https://www.arto.cash/#download) | Link | Link | Link |  | Link |
-|  Link | [B2B Coin](https://b2bcoin.xyz/) | O | Link | [Link](https://b2bcoin.xyz/#download) | Link | Link | Link |  | Link |
-|  Link | [Balkancoin](https://www.balkancoin.org/) | O | Link | [Link](https://www.balkancoin.org/downloads/) | Link | Link | Link |  | Link |
-|  Link | [BBSCoin](https://bbscoin.xyz/) | O | Link | [Link](https://bbscoin.xyz/download/#downloads) | Link | Link | Link |  | Link |
-|  Link | BitcoinNova | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Bitcoinote | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | BitTube | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | BixBiteCoin | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | BLOCC | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Bytecoin | O | Link | Link | Link | Link | Link |  | 27td1udbLduGqbDVf636m7EzVYowDszhAKnQ6KyJsLZMdjv654dcc2Jdi7ok6B5SQT6UXUtQgusruCoXbqUZm8VJAgc5VWL |
-|  Link | DigitalNote | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Digitalnote | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | DinastyCoin | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | DOSH | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Electronero | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Electroneum | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | ELYA | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Fonero | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Gadcoin | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Graft | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Haven | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Incognito | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | IntenseCoin | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | INTUcoin | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Iridium | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Italocoin | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Karbo | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | KEPL | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Kwagsh | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | LeviarCoin | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Lines | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Loki | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | MarketCash | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Masari | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Monero | O | Link | Link | Link | Link | Link |  | 42si9ingS34BnhGVBamjZUSDZr8XmEENeEypeRjnZVGgXCtr5rano1UjXqrT3anyZ22j7DEE74GkbVcQFyH2nNiC3dJ1V5J |
-|  Link | MoneroV | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | NERVA | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Niobio Cash | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Ombre | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Parsicoin | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Plura | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Qwertycoin | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | RyoCurrency | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Saronite | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | SecretCoin | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Soldo | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | SoliceCoin | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | SPOTme | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Stellite | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Sumokoin | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | SuperiorCoin | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Triton | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | TurtleCoin | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | TycheCash | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | UltraNote | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Worktips | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | Wownero | O | Link | Link | Link | Link | Link |  | Link |
-|  Link | ZuccBucc | O | Link | Link | Link | Link | Link |  | Link |
+|  **ticker** | **name** | **status** | **EXCHANGE** | **WALLET** | **ALGO** | **POOL** | **SCRIPT** | **GIT** | **DONATE** | **TYPE** |
+|  ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+|   |  |  |  |  |  |  |  |  |  |  |
+|  aeon | aeon | o | Link | [Link](https://www.aeon.cash/#downloads) | CN-Lite-V7 | Link | [GitHub](https://github.com/aeugenegray/xmr-stak-aeon.git) |  |  WmtK9TQ6yd2ZWZDAkRsebc2ppzUq2Wuo9XRRjHMH2fvqM3ARVqk3styJ6AavJFcpJFPFtxRGAqGFoJMZGJ6YYzQ61TYGfpykX.....26de7b7abd3e434586941e246e6a0de202ca6ae4677645f990b7d61770f0fe43 |  |
+|  link | alloy | o | Link | [Link](https://alloyproject.org/#wallet) | Link | Link | Link |  | Link |  |
+|  link | arto | o | Link | [Link](https://www.arto.cash/#download) | Link | Link | Link |  | Link |  |
+|  link | b2b coin | o | Link | [Link](https://b2bcoin.xyz/#download) | Link | Link | Link |  | Link |  |
+|  link | balkancoin | o | Link | [Link](https://www.balkancoin.org/downloads/) | Link | Link | Link |  | Link |  |
+|  link | bbscoin | o | Link | [Link](https://bbscoin.xyz/download/#downloads) | Link | Link | Link |  | Link |  |
+|  link | bitcoinnova | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | bitcoinote | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | bittube | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | bixbitecoin | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | blocc | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | bytecoin | o | Link | Link | Link | Link | Link |  | 27td1udbLduGqbDVf636m7EzVYowDszhAKnQ6KyJsLZMdjv654dcc2Jdi7ok6B5SQT6UXUtQgusruCoXbqUZm8VJAgc5VWL |  |
+|  link | croat | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | digitalnote | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | dinastycoin | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | dosh | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | edollar | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | electronero | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | electroneum | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | elya | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | fonero | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | gadcoin | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | graft | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | haven | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | incognito | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | intensecoin | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | intucoin | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | ipbc | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | iridium | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | italocoin | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | karbo | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | kepl | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | kwagsh | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | leviarcoin | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | lines | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | loki | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | macscoin | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | marketcash | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | masari | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | monero | o | Link | Link | Link | Link | Link |  | 42si9ingS34BnhGVBamjZUSDZr8XmEENeEypeRjnZVGgXCtr5rano1UjXqrT3anyZ22j7DEE74GkbVcQFyH2nNiC3dJ1V5J |  |
+|  link | monerov | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | mutex | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | nerva | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | niobio cash | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | ombre | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | parsicoin | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | plura | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | qwertycoin | o | Link | Link | Link | Link | Link |  | QWC1ezpQa8xhjAkAMNM2p5G7kuLrmXu8XjidgccoPEZncY4vKB4DD2MhiRx3qmWaKqcBUsVGVdnFjCD7P5Lmij1G1SCNpihRdT |  |
+|  link | ryocurrency | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | saronite | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | secretcoin | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | soldo | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | solicecoin | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | [SPOTme](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/spotme) | o | NA | [Link](https://www2.spotmecoin.com/) | CN_Lite_V7 | Link | Link |  | Link |  |
+|  link | stellite | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | sumokoin | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | superiorcoin | o | Link | Link | saronite | Link | Link |  | Link |  |
+|  link | triton | o | Link | Link | Link | Link | Link |  | Tw1Wf4BYraTYsWMA7SRiQbTLHpzoVueedCsDBjXAF6tZC9Fjjw7s1pnhTfMjeAMcZJ7JMKipyfSTYdRiAAagUNae28hB14UFA |  |
+|  link | turtlecoin | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | tychecash | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | ultranote | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | worktips | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | wownero | o | Link | Link | Link | Link | Link |  | Link |  |
+|  link | zuccbucc | o | Link | Link | Link | Link | Link |  | Link |  |
 
 ### Let's Go Halves on a Sack
 

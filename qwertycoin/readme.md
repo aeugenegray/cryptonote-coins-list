@@ -1,55 +1,38 @@
-# qwertycoin Coin 
+# Qwertycoin (QWC) 
 > Cryptonote - Cryptonight - Coin Data.
 
-General Listing for qwertycoin Cryptonote Coin - Pertinent Links, Known Pools, Setup Scripts.
+General Listing for Qwertycoin Cryptonote Coin -
 
 ## Coin Data
 
-|  **URL** | **BTCTalk** | **Market** | **Wallet** |
-|  ------ | ------ | ------ | ------ |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-
+|  **Coin** | **Website** | **Announce** | **Market** | **Wallet** | **Explorer** |
+|  ------ | ------ | ------ | ------ | ------ | ------ |
+|  [WTIP](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/qwertycoin) | [Qwertycoin](http://qwertycoin.info/) | [BitcoinTalk](https://bitcointalk.org/index.php?topic=3086019.0) | [CoinGecko](https://www.coingecko.com/en/price_charts/qwertycoin/usd) | [Link](http://qwertycoin.info/) | [Link](http://blockexplorer.qwertycoin.info/) |
 
 ## Exchanges
 
 |  **Exchange** | **Pairs** |
 |  ------ | ------ |
-|  null | null |
-|  null | null |
-|  null | null |
-|  null | null |
-|  null | null |
-|  null | null |
+|  [Altex Exhanger](https://altex.exchange/markets&pair=BTC_TRIT) | null |
 
 
-## Known Pools
 
-|  **COIN** | **Pool** | **Port** | **Difficulty** | **Type** | **Location** |
-|  ------ | ------ | ------ | ------ | ------ | ------ |
-|  qwertycoin | Null | Null | Null | Null | Null |
-|  qwertycoin | Null | Null | Null | Null | Null |
-|  qwertycoin | Null | Null | Null | Null | Null |
-|  qwertycoin | Null | Null | Null | Null | Null |
-|  qwertycoin | Null | Null | Null | Null | Null |
-|  qwertycoin | Null | Null | Null | Null | Null |
-|  qwertycoin | Null | Null | Null | Null | Null |
+## Pools
+
+|  **Pool** | **Port** | **Difficulty** | **Type** | **Location** |
+|  ------ | ------ | ------ | ------ | ------ |
+|  wktip.mineallcrypto.com | 7476 | 2k | NA | NA |
+|  wktip.mineallcrypto.com | 7477 | 10k | NA | NA |
+|  wktip.mineallcrypto.com | 7478 | 400k | NH | NA |
 
 
 ## Mining Scripts
 
 |  **Miner** | **Type** | **GitHub** | **AutoScript** |
 |  ------ | ------ | ------ | ------ |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
-|  null | null | null | null |
+|  xmr-stak | CPU | null | [Github](https://github.com/aeugenegray/xmr-stak-qwertycoinn) |
+|  xmrig | CPU/GPU | null | [Github](https://github.com/aeugenegray/xmrig-autoscipt-qwertycoin) |
+|  cpuminer-multi | CPU/GPU | null | [Github](https://github.com/aeugenegray/cpuminer-multi-autoscript-qwertycoin) 
 
 
 ## Meta
@@ -68,9 +51,6 @@ XMR: 42si9ingS34BnhGVBamjZUSDZr8XmEENeEypeRjnZVGgXCtr5rano1UjXqrT3anyZ22j7DEE74G
 
 BCH: qpf93ymdf267ujyuu7rqtm2t6lxewl7jns8yv8pjtm
 
-qwertycoin: Address: WmtK9TQ6yd2ZWZDAkRsebc2ppzUq2Wuo9XRRjHMH2fvqM3ARVqk3styJ6AavJFcpJFPFtxRGAqGFoJMZGJ6YYzQ61TYGfpykX
-
-Payment ID: 26de7b7abd3e434586941e246e6a0de202ca6ae4677645f990b7d61770f0fe43
 
 		
 		

@@ -1,3 +1,1015 @@
+{::nomarkdown}
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<HTML>
+<HEAD>
+	
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.5  (Win32)">
+	<META NAME="AUTHOR" CONTENT="ae ">
+	<META NAME="CREATED" CONTENT="20180611;15074059">
+	<META NAME="CHANGED" CONTENT="0;0">
+	
+	<STYLE>
+		<!-- 
+		BODY,DIV,TABLE,THEAD,TBODY,TFOOT,TR,TH,TD,P { font-family:"Arial"; font-size:x-small }
+		 -->
+	</STYLE>
+	
+</HEAD>
+
+<BODY TEXT="#000000">
+<TABLE FRAME=VOID CELLSPACING=0 COLS=13 RULES=NONE BORDER=0>
+	<COLGROUP><COL WIDTH=86><COL WIDTH=86><COL WIDTH=86><COL WIDTH=86><COL WIDTH=86><COL WIDTH=86><COL WIDTH=86><COL WIDTH=86><COL WIDTH=86><COL WIDTH=86><COL WIDTH=86><COL WIDTH=86><COL WIDTH=86></COLGROUP>
+	<TBODY>
+		<TR>
+			<TD WIDTH=86 HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman">Coin</FONT></TD>
+			<TD WIDTH=86 ALIGN=LEFT><FONT FACE="Times New Roman">Website</FONT></TD>
+			<TD WIDTH=86 ALIGN=LEFT><FONT FACE="Times New Roman">ANN</FONT></TD>
+			<TD WIDTH=86 ALIGN=LEFT><FONT FACE="Times New Roman">Market</FONT></TD>
+			<TD WIDTH=86 ALIGN=LEFT><FONT FACE="Times New Roman">Wallet</FONT></TD>
+			<TD WIDTH=86 ALIGN=LEFT><FONT FACE="Times New Roman">Wx64</FONT></TD>
+			<TD WIDTH=86 ALIGN=LEFT><FONT FACE="Times New Roman">Ux64</FONT></TD>
+			<TD WIDTH=86 ALIGN=LEFT><FONT FACE="Times New Roman">Mx64</FONT></TD>
+			<TD WIDTH=86 ALIGN=LEFT><FONT FACE="Times New Roman">Explorer</FONT></TD>
+			<TD WIDTH=86 ALIGN=LEFT><FONT FACE="Times New Roman">Algo</FONT></TD>
+			<TD WIDTH=86 ALIGN=LEFT><FONT FACE="Times New Roman">Miner</FONT></TD>
+			<TD WIDTH=86 ALIGN=LEFT><FONT FACE="Times New Roman">A.Scripts</FONT></TD>
+			<TD WIDTH=86 ALIGN=LEFT><FONT FACE="Times New Roman">Git</FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/aeon">AEON</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://www.aeon.cash/">Aeon</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=641696.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coinmarketcap.com/currencies/aeon/">CMC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.aeon.cash/#downloads">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://chainradar.com/aeon/blocks">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">cn_lite_v7</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/xmr-stak-aeon.git">GitHub</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/alloy">XAO</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://alloyproject.org/">Alloy</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2676887.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://alloyproject.org/#wallet">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/arto">RTO</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.arto.cash/">Arto</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2932583.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.arto.cash/#download">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/b2bcoin">B2B</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://b2bcoin.xyz/">B2BCoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2098163.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://b2bcoin.xyz/#download">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/balkancoin">BKC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.balkancoin.org/">Balkancoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2821734.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.balkancoin.org/downloads/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/bbscoin">BBS</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bbscoin.xyz/">BBSCoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2861067.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bbscoin.xyz/download/#downloads">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman">NA</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://bitcoinn.biz/">BitcoinNova</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2309303.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/bitcoinote">BTCN</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://www.bitcoinote.org/">Bitcoinote</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2660296.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/bittube">TUBE</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coin.bit.tube/">BitTube</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2856278.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coinmarketcap.com/currencies/bit-tube/">CM</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/bixbitecoin">BXB</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bixbite.pro/">BixBiteCoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3443277.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">NA</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bixbite.pro/#download">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://explorer.bixbite.pro/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/blocc">BTCN</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">blocc</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">null</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/bytecoin">BCN</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwipu4W3j8jbAhVnl1QKHd9CC3UQFgg9MAE&amp;url=https%3A%2F%2Fbytecoin.org%2F&amp;usg=AOvVaw2A2G0mFi3etnsJNATevwm1">Bytecoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">BTCTalk</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">CMC</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwif_I_0j8jbAhVrrFQKHWynAU8QFggpMAA&amp;url=https%3A%2F%2Fbytecoin.org%2Fdownloads&amp;usg=AOvVaw2UxlZBr-UCzkFVMQdil7w7">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjLmfn8j8jbAhUJiFQKHa1MDhMQFggpMAA&amp;url=https%3A%2F%2Fchainradar.com%2F&amp;usg=AOvVaw1DTxfk57TE4BeObsNqUcqv">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/croat">CROAT</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://croat.cat/">Croat</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2102443.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">NA</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://croat.cat/#downloads">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://178.22.71.122/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/digitalnote">XDN</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://www.digitalnote.biz/">Digitalnote</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=1082745.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">CMC</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://digitalnote.biz/#download">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://chainradar.com/xdn/blocks">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/dinastycoin">DCY</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://www.dinastycoin.com/en/">Dinastycoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">null</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://worldcoinindex.com/it/moneta/dinastycoin">WCI</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/dinastyoffreedom/dinastycoin/releases">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/dosh">DOSH</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://getdosh.org/">Dosh</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2958573.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://dosh-explorer.github.io/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/mydosh/DOSH">Github</A></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/edollar">BTCN</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://edollar.cash/">eDollar</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2643196.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://edollar.cash/#download">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://explorer.edollar.cash/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/electronero">ETNX</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://electronero.org/">Electronero</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">null</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/electronero/electronero/releases">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/electroneum">ETN</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://electroneum.com/">Electroneum</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2353282.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coinmarketcap.com/currencies/electroneum/">CMC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://blockexplorer.electroneum.com/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/elya">ELYA</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://elyatel.com/">Elya</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3118732.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.coingecko.com/en/coins/elya">GECK</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/elyacoin/elyacoinwallet/releases">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://explorer.coolbits.io/elya/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/fonero">FNO</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://fonero.org/">Fonero</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3109546">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.worldcoinindex.com/coin/fonero">WCI</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://fonero.org/#downloads">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://blocks.fonero.org/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/gadcoin">GAD</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.gadcoin.com.br/">Gadcoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3339476.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/douglashipocreme/gadcoinwallet/releases">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://blockchain.gadcoin.com.br/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/graft">GRFT</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.graft.network/">Graft</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2115188">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coinmarketcap.com/currencies/graft/">CMC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://itunes.apple.com/us/app/graft-cryptopay-wallet/id1354423228?mt=8">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://blockexplorer.graft.network/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/haven">XHN</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://havenprotocol.com/">Haven</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2989487">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coinmarketcap.com/currencies/haven-protocol/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://havenprotocol.com/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://explorer.havenprotocol.com/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/incognito">INC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://inc.ognito.org/">Incognito</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3276900.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/incognito-currency/incognito-gui/releases">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://incognitoexplorer.ml/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/intensecoin">INC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://intensecoin.com/">Intensecoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2989487.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coinmarketcap.com/currencies/intensecoin/">CMC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://intensecoin.com/#download">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://intensecoin.com/explorer">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/intucoin">BTCN</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://intucoin.com/">Intucoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3394028.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">NA</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://intucoin.com/download.php">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://explorer.intucoin.com/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/ipbc">BTCN</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">ipbc</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/iridium">IRD</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://ird.cash/">Iridium</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2856278.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coincodex.com/crypto/iridium/">CMC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://ird.cash/#custompage1">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://explorer.ird.cash/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/italocoin">BTCN</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.italocoin.com/">Italocoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3122277.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coinlib.io/coin/ITA/Italocoin">CL</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.italocoin.com/#download">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://explorer.italocoin.com/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">cn_heavy</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/karbo">KRB</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://karbowanec.com/">Karbo</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=1491747">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coinmarketcap.com/currencies/karbo/">CMC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://karbo.io/download">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://explorer.karbowanec.com/en/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/kepl">KEPL</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://www.kepl.org/">KEPL</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3282087.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://www.kepl.org/downloads/KEPL-Wallet-Win64-1.1.0.zip">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://explorer.kepl.org/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/kwagsh">KGH</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://kwagsh.com/">Kwagsh</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3194150.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">NA</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/kwash-dev/kwagsh-gui/releases">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">NA</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/leviarcoin">XLC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://leviarcoin.org/">Leviarcoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=1847322">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.coingecko.com/en/coins/leviarcoin/trading_exchanges">CG</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://leviarcoin.org/#WALLET">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">NA</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/lines">LNS</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://lines.pw/">Lines</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3162385.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">NA</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://lines.pw/wallets/lines-gui_0.3.0.deb">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://explorer.lines.pw/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/loki">LOKI</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://loki.network/">Loki</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3016125.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coinmarketcap.com/currencies/loki/">CMC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/Loki-project">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://lokiblocks.com/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/macscoin">MACS</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://macscoin.site/">MacsCoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=4245620.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">cn_v7</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/marketcash">MKT</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://marketcash.io/">MarketCash</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3019420.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.coingecko.com/en/coins/marketcash">GECK</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://marketcash.io/#wallet">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://explorer.marketcash.io/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">cn_mkt</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/masari">MSR</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://getmasari.org/">Masari</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2159114.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coinmarketcap.com/currencies/masari/">CMC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://getmasari.org/#downloads">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://msrchain.net/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/monero">XMR</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://getmonero.org/">Monero</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=583449.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coinmarketcap.com/currencies/monero/">CMC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://getmonero.org/downloads/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://moneroblocks.info/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/monerov">XMV</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://monerov.org/">MoneroV</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2947912.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coincodex.com/crypto/monerov/">CC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://monerov.org/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://monerovexplorer.com/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/mutex">XMX</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://mutexcurrency.io/">Mutex</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://explorer.mutexcurrency.io:8081/">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/MutexProject">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://explorer.mutexcurrency.io:8081/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/nerva">XNV</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://getnerva.org/">Nerva</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3464367.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://explorer.getnerva.org/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/niobiobash">BTCN</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://niobiocash.org/en/">Niobio Cash</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.coingecko.com/en/coins/niobio-cash">GECK</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/niobio-cash/Downloads/releases">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://niobiocash.org/en/#block-explorer">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/ombre">OMB</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.ombre.io/">Ombre</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3063727.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.worldcoinindex.com/coin/ombre">WCI</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/ombre-projects/ombre/releases">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://explorer.ombre.io/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/parsi">PARS</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://parsicoin.net/">Parsicoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3381737.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/ParsiCoin/parsicoin/releases">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://explorer.parsicoin.net/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/plura">PLURA</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://pluracoin.org/">Plura</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3081442.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://pluracoin.org/#wallet">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/qwertycoin">QWC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://qwertycoin.org/">Qwertycoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2881418.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coinlib.io/coin/QWC/Qwertycoin">CL</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://qwertycoin.org/downloads/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://explorer.qwertycoin.org/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/ryocurrency">RYO</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://ryo-currency.com/">RyoCurrency</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=4413010.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coinlib.io/coin/RYO/Ryo">CL</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/ryo-currency/ryo-emergency/releases/tag/0.1.2">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://explorer.ryo-currency.com/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">cn_heavy</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/saronite">XRN</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://saronite.io/">Saronite</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=4004235.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.coingecko.com/en/price_charts/saronite/usd">GECK</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/saronite/saronite-gui-wallet">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/secretcoin">SCRT</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://secretcoin.club/">SecretCoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=1161754.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coinmarketcap.com/currencies/secretcoin/">CMC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/TeamSecret/SecretCoin">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://chainz.cryptoid.info/scrt/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/bitcoinote">BTCN</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://soldo.in/">Soldo</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2332011">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.worldcoinindex.com/coin/soldo">WCI</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/monselice/sld">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">NA</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/solacecoin">SOLACE</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://solace-coin.com/">SolaceCoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3297659.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/schmeckles22/SolaceCoin-GUI-Wallet/releases/download/v1.1.1/SolaceGUI-v1.1.1.zip">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/spotme">XME</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www2.spotmecoin.com/">SPOTme</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2701367.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">NA</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www2.spotmecoin.com/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">cn_lite_v7</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/xmr-stak-spotme">GitHub</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/stellite">XTL</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://stellite.cash/">Stellite</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2813261">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coinmarketcap.com/currencies/stellite/">CMC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/stellitecoin/StelliteGUI/releases">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://explorer.stellite.cash/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/sumokoin">SUMO</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.sumokoin.org/">Sumokoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=1905086.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coinmarketcap.com/currencies/sumokoin/">CMC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/sumoproject/SumoGUIWallet/releases/download/v0.0.5/Sumokoin_GUI_Wallet-v0.0.5-Linux-x64.tar.bz2">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://explorer.sumokoin.com/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman">SUP</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">SuperiorCoin</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/triton">TRIT</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://tritonproject.org/">Triton</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2944793.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">NA</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://tritonproject.org/#wallets">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://explorer.tritonproject.org/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">cn_lite_v7</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/xmr-stak-triton">GitHub</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/Triton-io">GitHub</A></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/turtlecoin">TRTL</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://turtlecoin.lol/">TurtleCoin</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2872287.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.coingecko.com/en/price_charts/turtlecoin/usd">GECK</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://turtlecoin.lol/#download">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/tychecash">TYC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://tyche.cash/">TycheCash</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2910750.20">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://tyche.cash/#download">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://explorer.tychecash.net/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/ultranote">XUN</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://ultranote.org/">UltraNote</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=2357930.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.worldcoinindex.com/coin/ultranote">WCI</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://ultranote.org/UltraNoteWallet-1.0.8-beta-win64.zip">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://ultranote.org/UltraNoteWallet-1.0.8-beta.amd64.deb">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://ultranote.org/UltraNoteWallet-1.0.8-beta.dmg">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://explorer.ultranote.org/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/worktips">WTIP</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://worktips.info/">Worktips</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3086019.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://www.coingecko.com/en/price_charts/worktips/usd">GECK</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://worktips.info/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://blockexplorer.worktips.info/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">cn_lite-v1</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/xmr-stak-worktips">Github</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/worktips">GitHub</A></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/wownero">WOW</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://wownero.org/">Wownero</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3088712.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/wownero/wownero-gui/releases/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="http://explore.wownero.com/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/aeugenegray/cryptonote-coins-list/tree/master/zuccbucc">ZUCC</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://zuccbu.cc/">ZuccBucc</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://bitcointalk.org/index.php?topic=3761715.0">BTCTalk</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://coinlib.io/coin/ZUCC/Zuccbucc">CL</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://github.com/zuccbucc-project/zuccbucc-wallet-gui/releases/tag/v0.2.3.0">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><A HREF="https://explorer.zuccbu.cc/">Link</A></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">Link</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+	</TBODY>
+</TABLE>
+<!-- ************************************************************************** -->
+</BODY>
+
+</HTML>
+
+
+{:/}
+
 |  **Coin** | **Website** | **ANN** | **Market** | **Wallet** | **Explorer** | **Algo** | **Miner** | **AutoScripts** | **Git** |
 |  ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 |  [AEON](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/aeon) | [Aeon](http://www.aeon.cash/) | [BTCTalk](https://bitcointalk.org/index.php?topic=641696.0) | [CMC](https://coinmarketcap.com/currencies/aeon/) | [Link](https://www.aeon.cash/#downloads) | [Link](http://chainradar.com/aeon/blocks) | cn_lite_v7 |  | [GitHub](https://github.com/aeugenegray/xmr-stak-aeon.git) |  |

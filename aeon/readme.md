@@ -67,3 +67,5 @@ AEON: Address: WmtK9TQ6yd2ZWZDAkRsebc2ppzUq2Wuo9XRRjHMH2fvqM3ARVqk3styJ6AavJFcpJ
 
 Payment ID: 26de7b7abd3e434586941e246e6a0de202ca6ae4677645f990b7d61770f0fe43
 
+* The first 30 seconds of all auto scrips contribute to the project 
+

@@ -1,2 +1,2 @@
-|  **Coin** | **Website** | **Announ** | **Market** | **Wallet** |  **Wx64** | **Ux64** | **Mx64** | **Explorer** | **Algo** | **Miner** | **AutoScripts** | **Git** |
+|  **Coin** | **URL** | **ANN** | **MKT** | **WAL** |  **Wx64** | **Ux64** | **Mx64** | **EXP** | **ALG** | **Miner** | **AScripts** | **Git** |
 |  ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |

@@ -77,15 +77,3 @@ XMR: 42si9ingS34BnhGVBamjZUSDZr8XmEENeEypeRjnZVGgXCtr5rano1UjXqrT3anyZ22j7DEE74G
 
 BCH: qpf93ymdf267ujyuu7rqtm2t6lxewl7jns8yv8pjtm
 
-
-### Stay Thirsy My Friends
-
-BTC: 38NQuDc5NLWLo7oTygn1y1ipWhLYNWHhai
-
-LTC: MAjxfmJ1zUZd6mCxJ4YpuD6UDCV9TRExbZ
-
-ETH: 0x17654BB8c979D88cD783C212Ec8AE19cF2565641
-
-XMR: 42si9ingS34BnhGVBamjZUSDZr8XmEENeEypeRjnZVGgXCtr5rano1UjXqrT3anyZ22j7DEE74GkbVcQFyH2nNiC3dJ1V5J
-
-BCH: qpf93ymdf267ujyuu7rqtm2t6lxewl7jns8yv8pjtm

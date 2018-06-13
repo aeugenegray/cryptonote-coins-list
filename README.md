@@ -1,4 +1,4 @@
-|  **Coin** | **Website** | **ANN** | **MKT** | **Wx64** | **Lx64** | **Mx64** | **Exp** | **Algo** | **Stak** | **XMrig** | **CPUMiner** |**Git** |
+|  **Coin** | **Website** | **ANN** | **MKT** | **Wx64** | **Lx64** | **Mx64** | **EXP** | **ALG** | **XMRStak** | **XMRig** | **CPUMiner** |**Git** |
 |  ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |------ | ------ | ------ |
 | [AEON](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/aeon) | [Aeon](http://www.aeon.cash/) | [BTCTalk](https://bitcointalk.org/index.php?topic=641696.0) | [CMC](https://coinmarketcap.com/currencies/aeon/) | [Link](https://www.aeon.cash/#downloads) | Link | Link | [Link](http://chainradar.com/aeon/blocks) | cn\_lite\_v7 | [AutoScript](https://github.com/aeugenegray/stak-cpu-autoscript.git) | [AutoScript](https://github.com/aeugenegray/xmrig-autoscript.git) | [AutoScript](https://github.com/aeugenegray/cpuminer-multi-autoscript.git) | Link |
 | [XAO](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/alloy) | [Alloy](https://alloyproject.org/) | [BTCTalk](https://bitcointalk.org/index.php?topic=2676887.0) | Link | [Link](https://alloyproject.org/#wallet) | Link | Link | Link | null | [AutoScript](https://github.com/aeugenegray/stak-cpu-autoscript.git) | [AutoScript](https://github.com/aeugenegray/xmrig-autoscript.git) | [AutoScript](https://github.com/aeugenegray/cpuminer-multi-autoscript.git) | Link |
@@ -64,6 +64,19 @@
 | [WTIP](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/worktips) | [Worktips](http://worktips.info/) | [BTCTalk](https://bitcointalk.org/index.php?topic=3086019.0) | [GECK](https://www.coingecko.com/en/price_charts/worktips/usd) | [Link](http://worktips.info/) | Link | Link | [Link](http://blockexplorer.worktips.info/) | cn_lite-v1 | [AutoScript](https://github.com/aeugenegray/stak-cpu-autoscript.git) | [AutoScript](https://github.com/aeugenegray/xmrig-autoscript.git) | [AutoScript](https://github.com/aeugenegray/cpuminer-multi-autoscript.git) | Link |
 | [WOW](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/wownero) | [Wownero](http://wownero.org/) | [BTCTalk](https://bitcointalk.org/index.php?topic=3088712.0) | Link | [Link](https://github.com/wownero/wownero-gui/releases/) | Link | Link | [Link](http://explore.wownero.com/) | null | [AutoScript](https://github.com/aeugenegray/stak-cpu-autoscript.git) | [AutoScript](https://github.com/aeugenegray/xmrig-autoscript.git) | [AutoScript](https://github.com/aeugenegray/cpuminer-multi-autoscript.git) | Link |
 | [ZUCC](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/zuccbucc) | [ZuccBucc](https://zuccbu.cc/) | [BTCTalk](https://bitcointalk.org/index.php?topic=3761715.0) | [CL](https://coinlib.io/coin/ZUCC/Zuccbucc) | [Link](https://github.com/zuccbucc-project/zuccbucc-wallet-gui/releases/tag/v0.2.3.0) | Link | Link | [Link](https://explorer.zuccbu.cc/) | null | [AutoScript](https://github.com/aeugenegray/stak-cpu-autoscript.git) | [AutoScript](https://github.com/aeugenegray/xmrig-autoscript.git) | [AutoScript](https://github.com/aeugenegray/cpuminer-multi-autoscript.git) | Link |
+
+### Stay Thirsy My Friends
+
+BTC: 38NQuDc5NLWLo7oTygn1y1ipWhLYNWHhai
+
+LTC: MAjxfmJ1zUZd6mCxJ4YpuD6UDCV9TRExbZ
+
+ETH: 0x17654BB8c979D88cD783C212Ec8AE19cF2565641
+
+XMR: 42si9ingS34BnhGVBamjZUSDZr8XmEENeEypeRjnZVGgXCtr5rano1UjXqrT3anyZ22j7DEE74GkbVcQFyH2nNiC3dJ1V5J
+
+BCH: qpf93ymdf267ujyuu7rqtm2t6lxewl7jns8yv8pjtm
+
 
 ### Stay Thirsy My Friends
 

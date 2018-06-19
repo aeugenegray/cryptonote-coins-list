@@ -65,7 +65,7 @@
 | [WOW](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/wownero) | [Wownero](http://wownero.org/) | [BTCTalk](https://bitcointalk.org/index.php?topic=3088712.0) | Link | [Link](https://github.com/wownero/wownero-gui/releases/) | Link | Link | [Link](http://explore.wownero.com/) | null | [AutoScript](https://github.com/aeugenegray/stak-cpu-autoscript.git) | [AutoScript](https://github.com/aeugenegray/xmrig-autoscript.git) | [AutoScript](https://github.com/aeugenegray/cpuminer-multi-autoscript.git) | Link |
 | [ZUCC](https://github.com/aeugenegray/cryptonote-coins-list/tree/master/zuccbucc) | [ZuccBucc](https://zuccbu.cc/) | [BTCTalk](https://bitcointalk.org/index.php?topic=3761715.0) | [CL](https://coinlib.io/coin/ZUCC/Zuccbucc) | [Link](https://github.com/zuccbucc-project/zuccbucc-wallet-gui/releases/tag/v0.2.3.0) | Link | Link | [Link](https://explorer.zuccbu.cc/) | null | [AutoScript](https://github.com/aeugenegray/stak-cpu-autoscript.git) | [AutoScript](https://github.com/aeugenegray/xmrig-autoscript.git) | [AutoScript](https://github.com/aeugenegray/cpuminer-multi-autoscript.git) | Link |
 
-### Stay Thirsy My Friends
+### Stay Thirsty My Friends
 
 BTC: 38NQuDc5NLWLo7oTygn1y1ipWhLYNWHhai
 
